@@ -1,99 +1,113 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Kumaraswamy - Animated Banner" />
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bellamkondakumaraswamy&style=for-the-badge&color=blueviolet" />
-  <img src="https://img.shields.io/github/followers/Bellamkondakumaraswamy?label=Followers&style=for-the-badge&color=1DB954&logo=github" />
+  <!-- Profile Views & Followers -->
+  <img src="https://komarev.com/ghpvc/?username=Bellamkondakumaraswamy&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <a href="https://github.com/Bellamkondakumaraswamy?tab=followers">
+    <img src="https://img.shields.io/github/followers/Bellamkondakumaraswamy?label=Followers&style=for-the-badge&color=1DB954&logo=github">
+  </a>
+</div>
+
+<!-- Typing SVG Header -->
+<div align="center">
+  <h1>
+    Hey, I'm Kumaraswamy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  <p>
+    <strong>B.Tech AI & ML Student | MERN Stack Developer | AI Enthusiast</strong>
+  </p>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;AI+%26+Machine+Learning+Explorer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
 </div>
 
 ---
 
-<h1 align="center">
-Hey, I'm Kumaraswamy 👋
-</h1>
+## 🧠 About Me
 
-<p align="center">
-<strong>B.Tech AI & ML Student | MERN Developer | AI Enthusiast</strong>
-</p>
+I'm a passionate **Artificial Intelligence & Machine Learning** undergraduate at SRGEC with a CGPA of **8.4/10**.
 
----
+I specialize in building full-stack web applications using the **MERN Stack** and developing intelligent AI systems using modern ML architectures.
 
-## 🚀 About Me
-
-🎓 B.Tech in Artificial Intelligence & Machine Learning (SRGEC)  
-📊 CGPA: 8.4/10  
-💻 Passionate about Full Stack Development & AI Systems  
-🤖 Exploring Generative AI & Real-time ML Applications  
-🌱 Always learning and building impactful tech  
+🎓 B.Tech – AI & ML  
+💻 MERN Stack Developer  
+🤖 Built Real-Time Emotion Recognition System  
+🚀 Interested in Generative AI & Scalable Systems  
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ My Tech Arsenal
 
-### 💻 Languages
-- Python  
-- SQL  
+<table width="100%">
+  <tr>
+    <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" height="50"/><br>Python</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" height="50"/><br>JavaScript</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" height="50"/><br>React</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/><br>Node.js</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/><br>MongoDB</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" height="50"/><br>SQL</td>
+  </tr>
+</table>
 
-### 🌐 Web Development
-- HTML  
-- CSS  
-- MERN Stack (MongoDB, Express.js, React, Node.js)
+---
 
-### 🧰 Tools
-- VS Code  
-- Git & GitHub  
+## 🚀 Spotlight Projects
+
+### 🏋️ FitMate – MERN Fitness Tracker
+- Workout & nutrition tracking  
+- BMR calculator  
+- Secure authentication  
+- React frontend + Node/Express backend  
+
+---
+
+### 🎭 Bimodal Real-Time Emotion Recognition
+- Wav2Vec 2.0 for speech analysis  
+- RoBERTa for text understanding  
+- IEMOCAP Dataset  
+- Streamlit deployment  
 
 ---
 
 ## 💼 Internships
 
-### 🚀 MERN Stack Intern – SmartBridge Pvt Ltd (2025)
-- Built full-stack web applications  
-- Developed REST APIs  
-- Implemented authentication & CRUD operations  
+### 🚀 MERN Stack Intern – SmartBridge
+- Built full-stack applications  
+- Created REST APIs  
+- Implemented CRUD operations  
 
-### 🤖 AI & Cybersecurity Intern – AIMER Society (2024)
-- Built AI models  
-- Talking Parrot using Gemini API  
+### 🤖 AI Intern – AIMER Society
+- Built AI models & chatbots  
 - YOLO Object Detection  
-- Power BI Data Visualization  
+- Power BI Visualization  
 
 ---
 
-## 🌟 Featured Projects
+## 📊 GitHub Stats
 
-### 🏋️ FitMate – MERN Fitness Tracker
-- Workout & Nutrition Tracking  
-- BMR Calculator  
-- Secure Authentication  
-- React-Redux Frontend  
-- Node.js + Express Backend  
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Bellamkondakumaraswamy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-### 🎭 Bimodal Real-Time Emotion Recognition
-- Speech Analysis using Wav2Vec 2.0  
-- Text Analysis using RoBERTa  
-- IEMOCAP Dataset  
-- Streamlit Web App Deployment  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bellamkondakumaraswamy&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bellamkondakumaraswamy&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 ## 🏆 Certifications
+
 - Python – HackerRank  
 - Java – HackerRank  
 - AI Chatbot – IBM  
 
 ---
 
-## 🎯 Soft Skills
-Communication | Teamwork | Problem Solving | Adaptability  
-
----
-
-## 📫 Connect With Me
+## 📫 Let's Connect!
 
 <p align="center">
   <a href="mailto:bellamkondakumaraswamy99@gmail.com">
@@ -106,4 +120,4 @@ Communication | Teamwork | Problem Solving | Adaptability
 
 ---
 
-⭐ "Building intelligent systems that solve real-world problems."
+⭐ *"Building intelligent systems that solve real-world problems."*
