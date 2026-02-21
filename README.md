@@ -25,6 +25,30 @@
 
 ---
 
+<!-- Profile Buttons Section -->
+
+<h3 align="center">Integrating AI</h3>
+
+<p align="center">
+  <a href="mailto:bellamkondakumaraswamy99@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/kumaraswamy-bellamkonda-898788290">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Bellamkondakumaraswamy">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="tel:+918341494739">
+    <img src="https://img.shields.io/badge/MOBILE-8341494739-25D366?style=for-the-badge&logo=phone&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 🧠 About Me
 
 I'm a passionate **Artificial Intelligence & Machine Learning** undergraduate with a CGPA of **8.4/10**.
@@ -33,19 +57,6 @@ I'm a passionate **Artificial Intelligence & Machine Learning** undergraduate wi
 💻 MERN Stack Developer  
 🤖 Built AI & Data Analysis Projects  
 🚀 Interested in Generative AI & Scalable Systems  
-
----
-
-## 🌐 My GitHub Profile
-
-🔗 https://github.com/Bellamkondakumaraswamy  
-
----
-
-## 📱 Contact Information
-
-📞 +91-XXXXXXXXXX  
-📧 bellamkondakumaraswamy99@gmail.com  
 
 ---
 
@@ -150,19 +161,6 @@ I'm a passionate **Artificial Intelligence & Machine Learning** undergraduate wi
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bellamkondakumaraswamy&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:bellamkondakumaraswamy99@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kumaraswamy-bellamkonda-898788290">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
