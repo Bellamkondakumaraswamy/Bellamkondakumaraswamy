@@ -4,21 +4,21 @@
 </p>
 
 <div align="center">
-  <!-- Profile Views & Followers -->
-  <img src="https://komarev.com/ghpvc/?username=Bellamkondakumaraswamy&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Bellamkondakumaraswamy&style=for-the-badge&color=blueviolet" />
   <a href="https://github.com/Bellamkondakumaraswamy?tab=followers">
     <img src="https://img.shields.io/github/followers/Bellamkondakumaraswamy?label=Followers&style=for-the-badge&color=1DB954&logo=github">
   </a>
 </div>
 
-<!-- Typing SVG Header -->
 <div align="center">
   <h1>
-    Hey, I'm Kumaraswamy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hey, I'm Kumaraswamy 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <p>
-    <strong>B.Tech AI & ML Student | MERN Stack Developer | AI Enthusiast</strong>
-  </p>
+
+  <strong>B.Tech AI & ML Student | MERN Stack Developer | AI Enthusiast</strong>
+
+  <br><br>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;AI+%26+Machine+Learning+Explorer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
 </div>
@@ -27,14 +27,25 @@
 
 ## 🧠 About Me
 
-I'm a passionate **Artificial Intelligence & Machine Learning** undergraduate at SRGEC with a CGPA of **8.4/10**.
-
-I specialize in building full-stack web applications using the **MERN Stack** and developing intelligent AI systems using modern ML architectures.
+I'm a passionate **Artificial Intelligence & Machine Learning** undergraduate with a CGPA of **8.4/10**.
 
 🎓 B.Tech – AI & ML  
 💻 MERN Stack Developer  
-🤖 Built Real-Time Emotion Recognition System  
+🤖 Built AI & Data Analysis Projects  
 🚀 Interested in Generative AI & Scalable Systems  
+
+---
+
+## 🌐 My GitHub Profile
+
+🔗 https://github.com/Bellamkondakumaraswamy  
+
+---
+
+## 📱 Contact Information
+
+📞 +91-XXXXXXXXXX  
+📧 bellamkondakumaraswamy99@gmail.com  
 
 ---
 
@@ -53,61 +64,96 @@ I specialize in building full-stack web applications using the **MERN Stack** an
 
 ---
 
-## 🚀 Spotlight Projects
+### <img src="https://media.giphy.com/media/lihA2i2hT3i1g2I2tJ/giphy.gif" width="40px">&nbsp;**Spotlight Projects**
 
-### 🏋️ FitMate – MERN Fitness Tracker
-- Workout & nutrition tracking  
-- BMR calculator  
-- Secure authentication  
-- React frontend + Node/Express backend  
+<!-- LearnHub -->
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 LearnHub – Your Center for Skill Enhancement</h3>
+      <p>
+        A skill enhancement platform built using JavaScript.
+        Designed to help users explore and improve technical knowledge.
+      </p>
+      <p><b>Tech Stack:</b><br>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      </p>
+      <p>
+        <a href="https://github.com/Bellamkondakumaraswamy/LearnHub-Your-Center-for-Skill-Enhancement">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
----
+<br>
 
-### 🎭 Bimodal Real-Time Emotion Recognition
-- Wav2Vec 2.0 for speech analysis  
-- RoBERTa for text understanding  
-- IEMOCAP Dataset  
-- Streamlit deployment  
+<!-- Heart Disease Analysis -->
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>❤️ Heart Disease Analysis</h3>
+      <p>
+        Data analysis project using Python & Jupyter Notebook
+        to explore insights from healthcare datasets.
+      </p>
+      <p><b>Tech Stack:</b><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jupyter-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+      </p>
+      <p>
+        <a href="https://github.com/Bellamkondakumaraswamy/heart-Disease-Analysis">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
----
+<br>
 
-## 💼 Internships
-
-### 🚀 MERN Stack Intern – SmartBridge
-- Built full-stack applications  
-- Created REST APIs  
-- Implemented CRUD operations  
-
-### 🤖 AI Intern – AIMER Society
-- Built AI models & chatbots  
-- YOLO Object Detection  
-- Power BI Visualization  
+<!-- Dashboard -->
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Heart Disease Analysis Dashboard</h3>
+      <p>
+        Interactive dashboard visualizing heart disease data
+        and identifying key health indicators.
+      </p>
+      <p><b>Tech Stack:</b><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jupyter-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Data_Visualization-4285F4?style=for-the-badge"/>
+      </p>
+      <p>
+        <a href="https://github.com/Bellamkondakumaraswamy/heart-Disease-Analysis-Dashboard">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Bellamkondakumaraswamy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
+<br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bellamkondakumaraswamy&theme=tokyonight&hide_border=true"/>
-
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bellamkondakumaraswamy&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 ---
 
-## 🏆 Certifications
-
-- Python – HackerRank  
-- Java – HackerRank  
-- AI Chatbot – IBM  
-
----
-
-## 📫 Let's Connect!
+## 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:bellamkondakumaraswamy99@gmail.com">
@@ -120,4 +166,4 @@ I specialize in building full-stack web applications using the **MERN Stack** an
 
 ---
 
-⭐ *"Building intelligent systems that solve real-world problems."*
+⭐ *Building intelligent systems that solve real-world problems.*
