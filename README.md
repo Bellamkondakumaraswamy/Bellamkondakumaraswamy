@@ -43,7 +43,7 @@
   </a>
 
   <a href="tel:+918341494739">
-    <img src="https://img.shields.io/badge/MOBILE-8341494739-25D366?style=for-the-badge&logo=phone&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MOBILE-25D366?style=for-the-badge&logo=phone&logoColor=white"/>
   </a>
   <a href="https://portfolio-2-weqf.onrender.com">
     <img src="https://img.shields.io/badge/Portfolio-25D366?style=for-the-badge&logo=phone&logoColor=white"/>
